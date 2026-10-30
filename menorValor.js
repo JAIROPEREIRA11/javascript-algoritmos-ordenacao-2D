@@ -12,4 +12,4 @@ for (let atual = 0; atual < livros.length; atual++) {
   }
   return maisBarato;
 }
-mudule.exports = menorValor;
+module.exports = menorValor;
